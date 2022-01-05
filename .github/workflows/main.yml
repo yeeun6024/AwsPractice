@@ -1,4 +1,4 @@
-name: my-front
+name: my-front1
 on:
   push:
     branches:
